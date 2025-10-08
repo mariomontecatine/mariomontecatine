@@ -38,35 +38,6 @@ I’m a Telecommunication Engineering student with a strong passion for networki
  </a>
 </p>
 
-#### 💻 Operating Systems & Virtualization
-<p align="left">
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
- </a>&nbsp;&nbsp;
- <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="40" height="40"/>
- </a>&nbsp;&nbsp;
- <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/VirtualBox_logo.png" width="40" height="40"/>
- </a>&nbsp;&nbsp;
- <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Wireshark_Logo.png" width="40" height="40"/>
- </a>
-</p>
-
-#### 🗄 Databases & Servers / Version Control
-<p align="left">
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
- </a>&nbsp;&nbsp;
- <a href="https://www.nginx.com" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
- </a>&nbsp;&nbsp;
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
- </a>
-</p>
-
 #### 🌐 Web Development & Frameworks
 <p align="left">
  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration:none;">
@@ -89,6 +60,35 @@ I’m a Telecommunication Engineering student with a strong passion for networki
  </a>&nbsp;&nbsp;
  <a href="https://sass-lang.com" target="_blank" rel="noreferrer" style="text-decoration:none;">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
+ </a>
+</p>
+
+#### 🗄 Databases & Servers / Version Control
+<p align="left">
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+ </a>&nbsp;&nbsp;
+ <a href="https://www.nginx.com" target="_blank" rel="noreferrer" style="text-decoration:none;">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
+ </a>&nbsp;&nbsp;
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+ </a>
+</p>
+
+#### 💻 Operating Systems & Virtualization
+<p align="left">
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+ </a>&nbsp;&nbsp;
+ <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer" style="text-decoration:none;">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="40" height="40"/>
+ </a>&nbsp;&nbsp;
+ <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="40" height="40"/>
+ </a>&nbsp;&nbsp;
+ <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" width="40" height="40"/>
  </a>
 </p>
 
