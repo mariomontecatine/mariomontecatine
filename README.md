@@ -55,7 +55,7 @@ I’m a Telecommunication Engineering student with a strong passion for networki
 
 #### 📄 Documentation & Productivity
 <p align="left">
- <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="40" height="40"/> </a>
+ <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/LaTeX_logo.png" width="40" height="40"/> </a>
  <a href="https://www.microsoft.com/microsoft-365" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_2013-2019_logo.svg" width="40" height="40"/> </a>
 </p>
 ---
