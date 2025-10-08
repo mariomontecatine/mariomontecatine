@@ -8,9 +8,12 @@ I’m a Telecommunication Engineering student with a strong passion for networki
 
 ## 🌐 Socials
 <!-- Add your social links here -->
-- [LinkedIn](#)
-- [GitHub](#)
-- [Twitter](#)
+<a href="https://www.linkedin.com/in/mariomontecatine/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40"/>
+ </a>&nbsp;&nbsp;
+<a href="https://github.com/mariomontecatine" target="_blank" rel="noreferrer" style="text-decoration: none;">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Codicons_%E2%80%93_github-inverted.svg" width="40" height="40"/>
+ </a>&nbsp;&nbsp;
 
 ---
 
@@ -21,6 +24,12 @@ I’m a Telecommunication Engineering student with a strong passion for networki
  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer" style="text-decoration:none;">
    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
  </a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration:none;">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+ </a>&nbsp;&nbsp;
+ <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration:none;">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+ </a>
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
  </a>&nbsp;&nbsp;
@@ -30,12 +39,6 @@ I’m a Telecommunication Engineering student with a strong passion for networki
  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration:none;">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
  </a>&nbsp;&nbsp;
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
- </a>&nbsp;&nbsp;
- <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
- </a>
 </p>
 
 #### 🌐 Web Development & Frameworks
@@ -49,14 +52,11 @@ I’m a Telecommunication Engineering student with a strong passion for networki
  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" style="text-decoration:none;">
    <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
  </a>&nbsp;&nbsp;
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
  </a>&nbsp;&nbsp;
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration:none;">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
- </a>&nbsp;&nbsp;
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
  </a>&nbsp;&nbsp;
  <a href="https://sass-lang.com" target="_blank" rel="noreferrer" style="text-decoration:none;">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
@@ -82,7 +82,7 @@ I’m a Telecommunication Engineering student with a strong passion for networki
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
  </a>&nbsp;&nbsp;
  <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="40" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" width="40" height="40"/>
  </a>&nbsp;&nbsp;
  <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="40" height="40"/>
