@@ -25,17 +25,6 @@ I’m a Telecommunication Engineering student with a strong passion for networki
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a>
 </p>
 
-### 🤖 Core AI & Data Tools
-<p align="left">
- <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a>
- <!-- Aquí puedes añadir logos de frameworks de IA y ML si tienes -->
-</p>
-
-### 📊 Experimentation & Analysis
-<p align="left">
- <!-- Estadísticas, análisis de datos, etc. Puedes añadir logos como Jupyter, pandas, matplotlib si quieres -->
-</p>
-
 ### 🧩 Infrastructure & Systems
 <p align="left">
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> </a>
