@@ -7,111 +7,56 @@ I’m a Telecommunication Engineering student with a strong passion for networki
 ---
 
 ## 🌐 Socials
-<!-- Add your social links here -->
-<a href="https://www.linkedin.com/in/mariomontecatine/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40"/>
- </a>&nbsp;&nbsp;
-<a href="https://github.com/mariomontecatine" target="_blank" rel="noreferrer" style="text-decoration: none;">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Codicons_%E2%80%93_github-inverted.svg" width="40" height="40"/>
- </a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mariomontecatine/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/mariomontecatine" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
 ## 💻 Tech Stack
 
 ### 🧠 Languages
-<p align="left">
- <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
- </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
- </a>&nbsp;&nbsp;
- <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
- </a>
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
- </a>&nbsp;&nbsp;
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
- </a>&nbsp;&nbsp;
- <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
- </a>&nbsp;&nbsp;
-</p>
+![Matlab](https://img.shields.io/badge/MATLAB-0076A8.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
 
 #### 🌐 Web Development & Frameworks
-<p align="left">
- <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
- </a>&nbsp;&nbsp;
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
- </a>&nbsp;&nbsp;
- <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
- </a>&nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
- </a>&nbsp;&nbsp;
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
- </a>&nbsp;&nbsp;
- <a href="https://sass-lang.com" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
- </a>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 
 #### 🗄 Databases & Servers / Version Control
-<p align="left">
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
- </a>&nbsp;&nbsp;
- <a href="https://www.nginx.com" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
- </a>&nbsp;&nbsp;
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
- </a>
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 #### 💻 Operating Systems & Virtualization
-<p align="left">
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
- </a>&nbsp;&nbsp;
- <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" width="40" height="40"/>
- </a>&nbsp;&nbsp;
- <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="40" height="40"/>
- </a>&nbsp;&nbsp;
- <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" width="40" height="40"/>
- </a>
-</p>
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 
 #### 📄 Documentation & Productivity
-<p align="left">
- <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/LaTeX_logo.png" width="40" height="40"/>
- </a>&nbsp;&nbsp;
- <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" width="40" height="40"/>
- </a>&nbsp;&nbsp;
- <a href="https://www.microsoft.com/microsoft-365" target="_blank" rel="noreferrer" style="text-decoration:none;">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Microsoft_Office_logo_%282013%E2%80%932019%29.png" width="40" height="40"/>
- </a>
-</p>
+![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01.svg?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
---- 
+---
 
 ## 🧩 Core Competencies 
-- Strong teamwork and collaboration skills, able to contribute effectively in group projects
-- Sociable and proactive, with a natural ability to communicate ideas clearly
-- Adaptable and open-minded, able to approach challenges from different perspectives
-- High proficiency in networking concepts and practical implementation
-- Advanced programming skills
-- Problem-solving mindset with attention to detail and continuous learning
-- Effective documentation and data organization for clear communication of technical work
+- Strong teamwork and collaboration skills, able to contribute effectively in group projects  
+- Sociable and proactive, with a natural ability to communicate ideas clearly  
+- Adaptable and open-minded, able to approach challenges from different perspectives  
+- High proficiency in networking concepts and practical implementation  
+- Advanced programming skills  
+- Problem-solving mindset with attention to detail and continuous learning  
+- Effective documentation and data organization for clear communication of technical work  
