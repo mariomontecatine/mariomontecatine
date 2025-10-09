@@ -97,6 +97,9 @@ I’m a Telecommunication Engineering student with a strong passion for networki
  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
    <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/LaTeX_logo.png" width="40" height="40"/>
  </a>&nbsp;&nbsp;
+ <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" width="40" height="40"/>
+ </a>&nbsp;&nbsp;
  <a href="https://www.microsoft.com/microsoft-365" target="_blank" rel="noreferrer" style="text-decoration:none;">
    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Microsoft_Office_logo_%282013%E2%80%932019%29.png" width="40" height="40"/>
  </a>
